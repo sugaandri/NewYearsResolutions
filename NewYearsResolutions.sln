@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewYearsResolutions", "NewYearsResolutions\NewYearsResolutions.csproj", "{7CDA5194-611F-46CD-93D4-37517F8F50DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CDA5194-611F-46CD-93D4-37517F8F50DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDA5194-611F-46CD-93D4-37517F8F50DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDA5194-611F-46CD-93D4-37517F8F50DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDA5194-611F-46CD-93D4-37517F8F50DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
